@@ -1,13 +1,12 @@
 # REVIVIR-BIN
-Con este script podras revivir cualquier bin y utilizarlo como tu quieras 
-
+Con este script podras revivir cualquier bin y utilizarlo como tu quieras y tener lives funcionales 
 # INSTALACION
 
 pkg install git 
 
 pkg install figlet
 
-git clone
+git clone https://github.com/HACKDRES2/REVIVIR-BIN
 
 cd REVIVIR-BIN
 
