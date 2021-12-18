@@ -17,3 +17,7 @@ bash Revivir_bin.sh
 O puede ser
 
 ./Revivir_bin.sh
+
+
+Este script no es mio solo le hice unas modificaciones y cambie otras cosas todos los créditos al creador 
+
